@@ -1,24 +1,17 @@
 ## Hey, I'm Moserrat Salgado 👩🏻‍💻
 
 I'm a UX Designer, working in a consulting and research company that specializes in helping organizational leaders to establish innovation strategies **focused on the customer/user experience** to design and develop better products and services.
-#### Now I'm willing to learn about fullstack programmig on a bootcamp 👾
+
+#### I've always been curious about tech and innovation. 
+Now I'm willing to learn about fullstack programmig on a bootcamp 👾 but I'm also into accessibility and content design. 
+
+- 🌱 I’m currently learning the basics of programming 
+- 🤝 I’m looking to collaborate on small projects that allows me to practice my first steps 
+- 🦄 Ask me about UX design process (from research to ideation)
+- 👩🏽 Pronouns: she/her
+- 🌟 Fun fact: This is my 2nd time trying to learn coding
 
 
-
-These are a few commands I found interesting from the first class of the bootcamp, that can be useful or work as a *starter pack* when using the terminal.
-
-|Command|Description|
-|-------|-----------|
-|_pwd_| shows current directory|
-|_mkdir_|   makes new directory |
-|_cd_  |    change directory|
-|_clear_  | clear terminal|
-|_ls_  | list files |
-
-|Command alias| Description|
-|------------|--------------|
-|**alias rm="trash"** | To avoid deleting files permanently|
-|**alias npms="npm start"** | Indicates to node package manager to run "start" command|
 
 
 <!--
